@@ -1,0 +1,46 @@
+*{
+	font-family: Montserrat;
+}
+p.apple
+{
+	background-color: darkgrey;
+	color: black;
+	padding:20px;
+	text-align: center;
+}
+#Terms_and_Conditions
+{
+  margin-top: 15px;
+  padding: 20px;
+}
+.tac
+{
+   margin-top: 40px;
+}
+#gallery
+{
+   margin-top: 40px;
+}
+footer
+{
+	padding: 20px;
+	background-color: black;
+}
+pre
+{
+	color:white;
+}
+.ftrr
+{
+	color: white;
+
+
+}
+ul{
+	list-style: none;
+}
+
+.link
+{
+	color: white;
+}

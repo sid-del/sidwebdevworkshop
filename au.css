@@ -1,0 +1,55 @@
+body
+{
+	background-size: 1500px;
+}
+h1.a1
+{
+	text-align: center;
+	color: black;
+	font-size: 40px;
+}
+h1.auuu
+{
+	text-align: center;
+	color: white;
+}
+p.am
+{
+	text-align: center;
+	font-size: 25px;
+	color:orange;
+}
+
+p.auuu
+{
+	color:black;
+	font-size: 16px;
+}
+*
+{
+	font-family: Montserrat;
+}
+img.b
+{
+	border-radius:100px; 
+}img.b
+{
+	border-radius:100px; 
+
+}
+p.au
+{
+	color:orange;
+	text-align: center;
+	font-size: 40px;
+}
+a.prev
+{
+	font-size: 30px;
+	color:black;
+	text-decoration: none;
+}
+a hover
+{
+	color: green;
+}

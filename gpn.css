@@ -1,0 +1,32 @@
+.gpp
+{
+	text-align: center;
+	
+	font-size: 30px;
+}
+
+*
+{
+	font-family: Montserrat;
+	font-size: 30px;
+}
+.bco
+{
+	background-color: red;
+	padding: 25px;
+	text-align: center;color: white;
+}
+#one
+{
+	background-color: red;
+	text-align: center;
+	padding: 25px;
+	font-family: 20px;
+	font-size: 16px;
+}
+.back
+{
+	font-size: 50px;
+	color: black;
+	text-decoration: none;
+}
